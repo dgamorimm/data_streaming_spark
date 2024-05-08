@@ -9,6 +9,10 @@
 - [Watch the Video Tutorial](#watch-the-video-tutorial)
 - [Link do Video](https://www.youtube.com/watch?v=GqAcTrqKcrY)
 
+## Observation
+
+- Tem que jogar o jar dentro da lib no virtualenv do pyspark do cassandra-connector
+
 ## Introduction
 
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
