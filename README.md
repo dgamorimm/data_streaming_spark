@@ -7,6 +7,7 @@
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Watch the Video Tutorial](#watch-the-video-tutorial)
+- [Link do Video](https://www.youtube.com/watch?v=GqAcTrqKcrY)
 
 ## Introduction
 
